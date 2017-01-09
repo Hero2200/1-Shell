@@ -1,0 +1,2 @@
+line=$*
+echo $line

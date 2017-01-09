@@ -1,0 +1,2 @@
+var1="HELLO"
+var2="world"

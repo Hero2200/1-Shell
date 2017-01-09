@@ -1,0 +1,8 @@
+start
+line1 1234 3456
+line1 2345 345 line3
+line1
+line3
+line2 end
+line10
+i

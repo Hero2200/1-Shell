@@ -1,0 +1,43 @@
+
+
+echo Hello world hi \|tr  'H' 'h'
+#
+Hello world hi \|tr 'H' 'h'
+
+ls
+#
+1.c
+2
+3.sh
+find
+output
+scriptfifo
+script.log
+test
+timing.log
+tmp
+tr
+typescript
+xargs
+
+echo Hello world hi |tr  'H' 'h'
+#
+Hello world hi |tr 'H' 'h'
+
+echo "Hello world hi" |tr  H h
+#
+"Hello world hi" |tr H h
+
+echo hello world hi
+#
+hello world hi
+
+echo hello world hi |tr H h
+#
+hello world hi |tr H h
+
+echo hello world hi |tr H h
+#
+
+echo hello world hi |tr H h
+>>>

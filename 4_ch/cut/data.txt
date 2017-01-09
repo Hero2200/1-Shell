@@ -1,0 +1,6 @@
+Number	Name	Mark	Precent
+0	gg	45	90
+1	dd	44	23
+2	jj	20	23
+3	mm	90	12
+

@@ -1,0 +1,9 @@
+\ntouch 1.log 2.log
+\nfind -name *.log -delete
+\nsudo chown lj new.txt
+\nfind . -user lj
+\nfind . -user lj -exec cat {} ;
+\nfind . -user lj -exec cat {} ;
+\nfind . -user lj -exec cat { } ;
+\nfind . -user lj -exec ls -l { } ;
+\nfind . -user lj

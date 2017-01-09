@@ -1,0 +1,32 @@
+脚本启动于 2016年12月08日 星期四 21时34分58秒
+]0;liuj@22: ~/day/shell/2_chliuj@22:~/day/shell/2_ch$ ls
+1.c  2  output  [0m[40;33mscriptfifo[0m  test  timing.log  tmp  typescript
+]0;liuj@22: ~/day/shell/2_chliuj@22:~/day/shell/2_ch$ bc
+bc 1.06.95
+Copyright 1991-1994, 1997, 1998, 2000, 2004, 2006 Free Software Foundation, Inc.
+This is free software with ABSOLUTELY NO WARRANTY.
+For details type `warranty'. 
+1+2
+3
+2*3
+6
+exit
+0
+^C
+(interrupt) use quit to exit.
+]0;liuj@22: ~/day/shell/2_chliuj@22:~/day/shell/2_ch$ ls
+1.c  2  output  [0m[40;33mscriptfifo[0m  test  timing.log  tmp  typescript
+]0;liuj@22: ~/day/shell/2_chliuj@22:~/day/shell/2_ch$ cd ../
+]0;liuj@22: ~/day/shellliuj@22:~/day/shell$ ls
+1  11  [0m[01;34m1_ch[0m  [01;32m1-for.sh[0m  2  22  [01;34m2_ch[0m  [01;32m2-if.sh[0m  3  33  3.txt  4  44  5  55
+]0;liuj@22: ~/day/shellliuj@22:~/day/shell$ cd 
+]0;liuj@22: ~liuj@22:~$ cd 3[K2[Kday/shell/
+]0;liuj@22: ~/day/shellliuj@22:~/day/shell$ ls
+1  11  [0m[01;34m1_ch[0m  [01;32m1-for.sh[0m  2  22  [01;34m2_ch[0m  [01;32m2-if.sh[0m  3  33  3.txt  4  44  5  55
+]0;liuj@22: ~/day/shellliuj@22:~/day/shell$ cd 2_ch/
+]0;liuj@22: ~/day/shell/2_chliuj@22:~/day/shell/2_ch$ ls
+1.c  2  output  [0m[40;33mscriptfifo[0m  test  timing.log  tmp  typescript
+]0;liuj@22: ~/day/shell/2_chliuj@22:~/day/shell/2_ch$ exit
+exit
+
+脚本完成，于 2016年12月08日 星期四 21时35分34秒
